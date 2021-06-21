@@ -12,6 +12,15 @@ traffic-flow-prediction-benchmark  **provides three open traffic flow datasets, 
 
 *  Replace the **dataset** folder with downloaded folder. 
 
+   Make sure your foalder be like this:
+
+   ```
+   dataset─|
+           ├─BikeNYC
+           ├─TaxiBJ
+           └─TaxiNYC
+   ```
+
 * `pip install -r requirements.txt`
 
 
