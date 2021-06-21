@@ -1,0 +1,4 @@
+*.h5
+*.txt
+!NY_Meteorology.h5
+!BJ_Meteorology.h5
