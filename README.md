@@ -6,13 +6,13 @@ traffic-flow-prediction-benchmark  **provides three open traffic flow datasets, 
 
 ## Prerequisites
 
-* Download datasets, via baidu clound 链接：https://pan.baidu.com/s/1qKzsiIVBsyR0fEUYyct-LA 提取码：3ssx
+* Download datasets, via baidu clound 
+
+   链接：https://pan.baidu.com/s/1qKzsiIVBsyR0fEUYyct-LA 提取码：3ssx
+
 *  Replace the **dataset** folder with downloaded folder. 
+
 * `pip install -r requirements.txt`
-
-## Installing < traffic-flow-prediction-benchmark >
-
-`git clone https://github.com/pengzhangzhi/traffic-flow-prediction-benchmark.git`
 
 
 
@@ -23,5 +23,5 @@ traffic-flow-prediction-benchmark  **provides three open traffic flow datasets, 
 
 ## Contributions
 
-Welcome contribute :) 
+Welcome contribute :) Any help will be much appreciated!!
 
